@@ -8,7 +8,13 @@ updates:
       day: "sunday"
     commit-message:
       prefix: ⬆
-  # Enable version updates for NPM dependencies
+    reviewers:
+      - "pawahtun"
+    assignees:
+      - "pawahtun"
+    labels:
+      - "github-actions"
+    # Python
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
@@ -17,6 +23,8 @@ updates:
       timezone: "America/Mexico_City"
     commit-message:
       prefix: ⬆
+    reviewers:
+      - "pawahtun"
     assignees:
       - "pawahtun"      
     labels:
