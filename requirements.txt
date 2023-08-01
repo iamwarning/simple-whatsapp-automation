@@ -12,4 +12,4 @@ webdriver-manager==3.8.6
 pip==23.1.2
 wheel==0.40.0
 setuptools==68.0.0
-selenium~=4.10.0
+selenium~=4.11.2
