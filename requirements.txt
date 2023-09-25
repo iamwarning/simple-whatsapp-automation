@@ -7,7 +7,7 @@ python-dotenv==1.0.0
 requests==2.31.0
 tqdm==4.66.1
 urllib3==2.0.4
-webdriver-manager==4.0.0
+webdriver-manager==4.0.1
 
 pip==23.2.1
 wheel==0.41.2
